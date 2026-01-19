@@ -29,13 +29,13 @@ Shows how revenue changes over time and helps identify patterns and growth.
 
 ### Top 10 Products by Revenue
 Highlights the highest revenue-generating products.
-<img width="800" height="498" alt="Screenshot 2026-01-19 161021" src="https://github.com/user-attachments/assets/2df76fc1-562d-4a48-83f6-65dd615bfd91" />
+<img width="800" height="495" alt="Screenshot 2026-01-19 161021" src="https://github.com/user-attachments/assets/2df76fc1-562d-4a48-83f6-65dd615bfd91" />
 
 
 
 ### Revenue by Region
 Compares performance across different regions.
-<img width="800" height="496" alt="Screenshot 2026-01-19 161034" src="https://github.com/user-attachments/assets/45484672-99a6-48ac-8423-f8a161f26f99" />
+<img width="800" height="495" alt="Screenshot 2026-01-19 161034" src="https://github.com/user-attachments/assets/45484672-99a6-48ac-8423-f8a161f26f99" />
 
 
 
