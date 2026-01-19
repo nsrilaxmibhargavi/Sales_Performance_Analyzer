@@ -85,36 +85,38 @@ These KPIs are also exported to Excel for easy sharing and reporting.
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/nsrilaxmibhargavi/sales-performance-analyzer.git
-cd sales-performance-analyzer
+     git clone https://github.com/nsrilaxmibhargavi/sales-performance-analyzer.git
+
+     cd sales-performance-analyzer
 
 ### 2. Install dependencies
-pip install pandas numpy matplotlib plotly xlsxwriter kaggle
+     pip install pandas numpy matplotlib plotly xlsxwriter kaggle
 
 ### 3. Run the project
-python main.py
+     python main.py
 
 
-All reports will be generated automatically in the output/ folder.
+   - All reports will be generated automatically in the output/ folder.
 
 ---
 
 ## 📌 Dataset
 
-This project uses the Superstore Sales Dataset from Kaggle.
-Make sure your Kaggle API is configured if you want automatic downloading.
+ - This project uses the Superstore Sales Dataset from Kaggle. 
+
+ - Make sure your Kaggle API is configured if you want automatic downloading.
 
 ---
 
 ## ✅ Highlights
 
-End-to-end sales data analysis pipeline
+ - End-to-end sales data analysis pipeline
 
-Automatic report generation (PNG, PDF, Excel, HTML)
+ - Automatic report generation (PNG, PDF, Excel, HTML)
 
-Clean and reusable Python code structure
+ - Clean and reusable Python code structure
 
-Suitable for portfolios, internships, and academic projects
+ - Suitable for portfolios, internships, and academic projects
 
 ---
 
