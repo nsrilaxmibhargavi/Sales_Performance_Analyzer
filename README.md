@@ -4,6 +4,12 @@
 A Python-based data analysis project that turns raw sales data into clear insights, visual reports, and interactive dashboards.  
 This project automates the entire flow: data cleaning, KPI calculation, visualization, and report generation.
 
+<p align="center"> 
+     <img src="https://github.com/user-attachments/assets/02cbcfbe-6957-4b4b-9e57-f5ef777f83fc">
+</p>
+
+
+
 ---
 
 ## 🔍 What this project does
@@ -85,7 +91,7 @@ These KPIs are also exported to Excel for easy sharing and reporting.
 ## 🚀 How to Run
 
 ### 1. Clone the repository
-     git clone https://github.com/nsrilaxmibhargavi/sales-performance-analyzer.git
+     git clone https://github.com/nsrilaxmibhargavi/sales-performance-analyzer
 
      cd sales-performance-analyzer
 
@@ -125,3 +131,7 @@ These KPIs are also exported to Excel for easy sharing and reporting.
 This project demonstrates how raw sales data can be transformed into meaningful business insights using Python.
 By automating analysis, visualization, and reporting, it reduces manual effort and provides a clear, repeatable workflow for decision-making.
 It also serves as a solid example of practical data analysis skills, combining data cleaning, KPI computation, and professional reporting in a single pipeline.
+
+<p align="center">
+     <img src= "https://github.com/user-attachments/assets/06d80920-6916-40ae-b464-c642ed51d98e">
+</p>
